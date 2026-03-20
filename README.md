@@ -93,6 +93,6 @@ The Location Score is also calculated on a scale of 1 to 10, but it is based on 
 
 ## Note
 
-This app was developed by **OE3JGW / Jürgen Waissnix**. If you want to support me, you can do so via PayPal at **waissnix@gmail.com**. You can also use this email address for support inquiries for this app.
+This app was developed by **OE3JGW / Jürgen Waissnix**.
 
 
